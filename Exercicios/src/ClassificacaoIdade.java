@@ -13,5 +13,7 @@ public class ClassificacaoIdade {
         } else {
             System.out.println("idoso");
         }
+        input.close();
+
     }
 }
